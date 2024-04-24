@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "2ndhere",
+    "slug": "2ndhere",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "2ndhere"
+}
