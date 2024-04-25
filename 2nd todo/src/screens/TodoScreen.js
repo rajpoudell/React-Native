@@ -8,6 +8,9 @@ import {
 } from "react-native";
 
 import React from "react";
+
+
+ 
 const dummyData =[{
     id: "01",
     title:"wash car"
